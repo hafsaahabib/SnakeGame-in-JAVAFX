@@ -1,1 +1,1 @@
-# SnakeGame-in-JAVAFX
+# SnakeGame
